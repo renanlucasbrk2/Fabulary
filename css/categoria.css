@@ -1,5 +1,5 @@
 .categoria {
-    padding: 2em 2em;
+    padding: 1.3em 2em;
 }
 .categoria__lista {
     display: flex;
@@ -10,6 +10,9 @@
     display: flex;
     flex-direction: column-reverse;
     align-items: center;
+    gap: 0.3em;
+    text-decoration: none;
+    color: var(--cor-preta);
 }
 
 .categoria__lista-icon {
