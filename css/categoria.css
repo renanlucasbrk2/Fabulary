@@ -5,3 +5,12 @@
     display: flex;
     gap: 13px;
 }
+
+.categoria_itens {
+    display: flex;
+    align-items: baseline;
+}
+
+.categoria__lista-icon {
+    width: 30px;
+}
