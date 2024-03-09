@@ -23,19 +23,3 @@
     color: var(--cor-preta);
     font-size: 17px;
 }
-
-/* .navbar__pesquisa {
-    border-radius: 1em;
-    padding: 0.3em 0.6em 0.3em 0.6em;
-    border-width: 1px;
-    outline: none;
-    width: 20vw;
-} */
-
-/* .navbar__pesquisa::placeholder {
-    background-image: url("../img/lupa.png");
-    background-repeat: no-repeat;
-    background-position: left;
-    background-size: 1.2em;
-    text-align: center;
-} */

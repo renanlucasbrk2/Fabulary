@@ -3,7 +3,7 @@
 }
 .categoria__lista {
     display: flex;
-    gap: 13px;
+    gap: 4em;
 }
 
 .categoria_ancora {
