@@ -1,0 +1,7 @@
+.categoria {
+    padding: 2em 2em;
+}
+.categoria__lista {
+    display: flex;
+    gap: 13px;
+}

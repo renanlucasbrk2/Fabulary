@@ -3,39 +3,39 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0.4em 1em;
+    padding: 0.4em 2em;
     box-shadow: -6px -5px 10px 0px;
 }
 
 .navbar__logo {
-    width: 125px;
-    /* margin-right: 10em; */
+    width: 160px;
 }
 
 .lista__nevegacao {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    gap: 1.5em;
+    gap: 3em;
 }
 
 .lista_link {
     text-decoration: none;
     color: var(--cor-preta);
+    font-size: 17px;
 }
 
-.navbar__pesquisa {
+/* .navbar__pesquisa {
     border-radius: 1em;
     padding: 0.3em 0.6em 0.3em 0.6em;
     border-width: 1px;
     outline: none;
     width: 20vw;
-}
+} */
 
-.navbar__pesquisa::placeholder {
+/* .navbar__pesquisa::placeholder {
     background-image: url("../img/lupa.png");
     background-repeat: no-repeat;
     background-position: left;
     background-size: 1.2em;
     text-align: center;
-}
+} */
