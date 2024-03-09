@@ -6,9 +6,10 @@
     gap: 13px;
 }
 
-.categoria_itens {
+.categoria_ancora {
     display: flex;
-    align-items: baseline;
+    flex-direction: column-reverse;
+    align-items: center;
 }
 
 .categoria__lista-icon {
