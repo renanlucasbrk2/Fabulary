@@ -1,16 +1,19 @@
 @import url("header.css");
 @import url("categoria.css");
 @import url("banner.css");
+@import url("produtos.css");
 
 :root {
     --cor-preta: #000000;
     --cor-branca: #FFFFFF;
     --fonte-principal: "Poppins", sans-serif;
     --cor-rosa: rgba(255, 0, 157, 0.841);
+    --cor-cinza: #5d5a5a;
 }
 
 body {
     font-size: 16px;
     color: var(--cor-preta);
     font-family: var(--fonte-principal);
+    box-sizing: border-box;
 }
