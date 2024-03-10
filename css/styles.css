@@ -6,6 +6,7 @@
     --cor-preta: #000000;
     --cor-branca: #FFFFFF;
     --fonte-principal: "Poppins", sans-serif;
+    --cor-rosa: rgba(255, 0, 157, 0.841);
 }
 
 body {

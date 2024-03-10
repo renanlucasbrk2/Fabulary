@@ -15,6 +15,11 @@
     color: var(--cor-preta);
 }
 
+.categoria_ancora:hover {
+    color: var(--cor-rosa);
+    transform: scale(1.1);
+}
+
 .categoria__lista-icon {
     width: 30px;
 }
